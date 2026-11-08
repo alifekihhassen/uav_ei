@@ -1,0 +1,11 @@
+# versions used to produce the saved models (models/*.joblib, models/sac_nn.zip)
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn==1.8.0
+joblib
+torch
+gymnasium==1.4.0
+stable-baselines3==2.9.0
+tensorboard

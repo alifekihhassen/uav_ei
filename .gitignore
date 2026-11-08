@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# MATLAB / Simulink build caches (regenerated at each simulation)
+slprj/
+*.slxc
+*.asv
+*.autosave
